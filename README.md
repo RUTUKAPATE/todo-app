@@ -12,11 +12,11 @@ Welcome to the Todo App! This application helps you manage your daily tasks effi
 
 ## Screenshots
 
-(.public/todo-desktop.png)
+![Desktop Image](public/todo-desktop.png)
 
-(.public/todo-task-image.png)
+![Todo Task Image](public/todo-task-image.png)
 
-(.public/completed-task-image.png)
+![Completed Task Image](public/completed-task-image.png)
 
 ## Installation
 
