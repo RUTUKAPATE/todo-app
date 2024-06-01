@@ -12,7 +12,7 @@ Welcome to the Todo App! This application helps you manage your daily tasks effi
 
 ## Screenshots
 
-![Desktop Image](public/todo-desktop.pngng)
+[Desktop Image](/todo-app/public/todo-desktop.png)
 
 ## Installation
 
@@ -41,7 +41,6 @@ Welcome to the Todo App! This application helps you manage your daily tasks effi
 ## Technologies Used
 
 - **Frontend**: React, HTML, CSS
-- **Backend**: Node.js
 
 ## Contributing
 
@@ -53,10 +52,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact me at [rutuja16kapte@gmail.com](mailto:rutuja16kapate@gmail.com).
